@@ -1,0 +1,1 @@
+# ConfigurandoRecursoseDimensionamentos-em-M-quinas-Virtuais-na-Azure
